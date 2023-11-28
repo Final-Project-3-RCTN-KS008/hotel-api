@@ -1,0 +1,15 @@
+// authRoutes.js
+
+const express = require("express");
+const router = express.Router();
+const jwt = require("jsonwebtoken");
+const bcrypt = require("bcrypt");
+const User = require("../models/User");
+const authController = require("../controllers/authController");
+// Register a new user
+router.post("/register", authController.registerUser);
+
+// Login
+router.post("/login", authController.loginUser);
+
+module.exports = router;
