@@ -7,7 +7,7 @@ const roomSchema = new mongoose.Schema({
 const hotelSchema = new mongoose.Schema({
   name: { type: String, required: true },
   address: { type: String, required: true },
-  image: [{ type: String }], // URL/path for hotel image
+  image: { type: String }, // URL/path for hotel image
   rating: { type: Number }, // Hotel rating
   description: { type: String }, // Description of the hotel
   rooms: [roomSchema],
