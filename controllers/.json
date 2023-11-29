@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Novotel Bali",
+    "address": "Kuta Beach",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/bali/novotel/foto1.webp",
+    "rating": 4.5,
+    "description": "Welcome to Novotel Bali, an exquisite haven nestled along the captivating shores of Kuta. Our five-star resort offers a mesmerizing vista of Bali's turquoise waters and golden sands. Step into our refined lobby adorned with local artistry, where our dedicated staff awaits to ensure your stay surpasses all expectations. Luxuriate in our meticulously designed rooms and suites, each featuring a private balcony overlooking either the ocean's endless horizon or the lush tropical gardens. Indulge in a culinary odyssey at our diverse dining venues, from upscale international cuisine in our sophisticated restaurants to relaxed beachfront bars offering inventive cocktails. Rejuvenate at our exclusive spa with indulgent treatments inspired by Balinese traditions. Lounge by the infinity pool, bask in the sun on private beach cabanas, or engage in thrilling water sports for an exhilarating experience. Whether seeking cultural exploration or adventure, our concierge stands ready to curate bespoke excursions, from diving escapades to sunset cruises along the picturesque coast. At Novotel Bali, every moment invites you to embrace luxury, tranquility, and the creation of cherished memories against the backdrop of Bali's stunning landscapes.",
+
+    "type": "Single",
+    "price": 150000
+  },
+  {
+    "name": "Hard Rock Cafe",
+    "address": "Gianyar",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/bali/hardrockcafe/foto1.jpg",
+    "rating": 4,
+    "description": "Welcome to the iconic Hard Rock Hotel in Gianyar, where the pulse of rock 'n' roll meets the serenity of Bali. Our vibrant hotel resonates with the energy of music, boasting a lobby adorned with legendary memorabilia that sets the stage for an unforgettable stay. Retreat to our stylish and rock-inspired rooms and suites designed for comfort and infused with the essence of rock culture. Indulge in a symphony of flavors at our diverse dining venues, savoring signature dishes and exotic cocktails amidst lively vibes. Whether relaxing at the Rock Spa, catching live music by the poolside stage, or diving into our exhilarating pool and family-friendly activities, our hotel encapsulates the spirit of rock 'n' roll intertwined with the tranquility of Gianyar. Let Hard Rock Hotel Gianyar be your gateway to crafting moments that echo with the rhythm of unforgettable experiences.",
+    "price": 150000
+  },
+  {
+    "name": "Hotel Labuan Bajo",
+    "address": "Labuan Bajo, Komodo National Park",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/labuanbajo/foto1.jpg",
+    "rating": 4.2,
+    "description": "Experience the wonders of Labuan Bajo from the comfort of Hotel Labuan Bajo, nestled in the heart of Komodo National Park. With a breathtaking backdrop of natural beauty, our hotel offers a serene retreat for adventurers seeking comfort and tranquility. Embrace our cozy Single and Double rooms, each designed for relaxation after thrilling days of exploration.",
+    "type": "Single",
+    "price": 120000
+  },
+
+  {
+    "name": "Surabaya Bayview Hotel",
+    "address": "Surabaya, Kenjeran Beach",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/Surabaya/foto1.jpg",
+    "rating": 4.3,
+    "description": "Surabaya Bayview Hotel in Surabaya, overlooking Kenjeran Beach, invites you to unwind in comfort amidst stunning coastal vistas. Discover our inviting Single and Double rooms, offering a peaceful escape after days of seaside adventures.",
+    "price": 160000
+  },
+  {
+    "name": "Raja Ampat Resort",
+    "address": "Raja Ampat, West Papua",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/rajaampat/foto1.jpg",
+    "rating": 4.7,
+    "description": "The Raja Ampat Resort, nestled in West Papua's beauty, invites you to unwind in paradise. Immerse yourself in the splendor of Raja Ampat, where our resort serves as your luxurious sanctuary amidst nature's grandeur. Indulge in our serene Single and Double rooms, providing the perfect respite after days spent discovering this tropical haven.",
+    "price": 400000
+  },
+
+  {
+    "name": "Jakarta City Hotel",
+    "address": "Central Jakarta, National Monument",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/jakarta/foto1.jpg",
+    "rating": 4,
+    "description": "Across the archipelago, the Jakarta City Hotel in Central Jakarta, near the National Monument, welcomes you to the bustling energy of the city. Find comfort and convenience in our Single and Double rooms, ideal for urban explorers seeking a restful haven.",
+    "price": 180000
+  }
+]
