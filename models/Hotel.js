@@ -1,9 +1,5 @@
 const mongoose = require("mongoose");
-const roomSchema = new mongoose.Schema({
-  type: String,
-  price: Number,
-  // Other room details
-});
+
 const hotelSchema = new mongoose.Schema({
   name: { type: String, required: true },
   address: { type: String, required: true },
