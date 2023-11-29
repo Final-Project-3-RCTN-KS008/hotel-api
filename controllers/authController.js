@@ -29,7 +29,11 @@ const loginUser = async (req, res) => {
         process.env.JWT_SECRET,
         { expiresIn: "24h" }
       );
-      res.json({ message: "Login successful", accessToken });
+      res.json({
+        message: "Login successful",
+        accessToken,
+        user: { username, name, email },
+      });
     } else {
       res.status(401).json({ message: "Incorrect password" });
     }
