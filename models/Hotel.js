@@ -10,7 +10,10 @@ const hotelSchema = new mongoose.Schema({
   image: { type: String }, // URL/path for hotel image
   rating: { type: Number }, // Hotel rating
   description: { type: String }, // Description of the hotel
-  rooms: [roomSchema],
+  price: {
+    type: Number,
+    required: true,
+  },
   // Other hotel details
 });
 
