@@ -1,55 +1,122 @@
 [
   {
-    "name": "Novotel Bali",
-    "address": "Kuta Beach",
-    "image": "https://hotel-api-production-0e8a.up.railway.app/images/bali/novotel/foto1.webp",
-    "rating": 4.5,
-    "description": "Welcome to Novotel Bali, an exquisite haven nestled along the captivating shores of Kuta. Our five-star resort offers a mesmerizing vista of Bali's turquoise waters and golden sands. Step into our refined lobby adorned with local artistry, where our dedicated staff awaits to ensure your stay surpasses all expectations. Luxuriate in our meticulously designed rooms and suites, each featuring a private balcony overlooking either the ocean's endless horizon or the lush tropical gardens. Indulge in a culinary odyssey at our diverse dining venues, from upscale international cuisine in our sophisticated restaurants to relaxed beachfront bars offering inventive cocktails. Rejuvenate at our exclusive spa with indulgent treatments inspired by Balinese traditions. Lounge by the infinity pool, bask in the sun on private beach cabanas, or engage in thrilling water sports for an exhilarating experience. Whether seeking cultural exploration or adventure, our concierge stands ready to curate bespoke excursions, from diving escapades to sunset cruises along the picturesque coast. At Novotel Bali, every moment invites you to embrace luxury, tranquility, and the creation of cherished memories against the backdrop of Bali's stunning landscapes.",
-
-    "type": "Single",
-    "price": 150000
+    "name": "Eiffel Palace",
+    "address": "Champ de Mars, 5 Avenue Anatole, Paris, France",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/paris/foto1.jpg",
+    "rating": 4.8,
+    "description": "Experience the allure of Paris at the Eiffel Palace, offering a breathtaking view of the iconic Eiffel Tower. Our rooms, overlooking the city's romantic skyline, blend luxury and sophistication, providing an unforgettable stay in the heart of Paris.",
+    "price": 550000
   },
   {
-    "name": "Hard Rock Cafe",
-    "address": "Gianyar",
-    "image": "https://hotel-api-production-0e8a.up.railway.app/images/bali/hardrockcafe/foto1.jpg",
-    "rating": 4,
-    "description": "Welcome to the iconic Hard Rock Hotel in Gianyar, where the pulse of rock 'n' roll meets the serenity of Bali. Our vibrant hotel resonates with the energy of music, boasting a lobby adorned with legendary memorabilia that sets the stage for an unforgettable stay. Retreat to our stylish and rock-inspired rooms and suites designed for comfort and infused with the essence of rock culture. Indulge in a symphony of flavors at our diverse dining venues, savoring signature dishes and exotic cocktails amidst lively vibes. Whether relaxing at the Rock Spa, catching live music by the poolside stage, or diving into our exhilarating pool and family-friendly activities, our hotel encapsulates the spirit of rock 'n' roll intertwined with the tranquility of Gianyar. Let Hard Rock Hotel Gianyar be your gateway to crafting moments that echo with the rhythm of unforgettable experiences.",
-    "price": 150000
+    "name": "Big Ben Suites",
+    "address": "Westminster, London SW1A 0AA, United Kingdom",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/london/foto1.jpg",
+    "rating": 4.6,
+    "description": "Discover London's charm at Big Ben Suites, nestled in the historic heart of the city. Enjoy elegant rooms with views of the renowned clock tower, offering a perfect blend of British elegance and modern comfort.",
+    "price": 620000
   },
   {
-    "name": "Hotel Labuan Bajo",
-    "address": "Labuan Bajo, Komodo National Park",
-    "image": "https://hotel-api-production-0e8a.up.railway.app/images/labuanbajo/foto1.jpg",
-    "rating": 4.2,
-    "description": "Experience the wonders of Labuan Bajo from the comfort of Hotel Labuan Bajo, nestled in the heart of Komodo National Park. With a breathtaking backdrop of natural beauty, our hotel offers a serene retreat for adventurers seeking comfort and tranquility. Embrace our cozy Single and Double rooms, each designed for relaxation after thrilling days of exploration.",
-    "type": "Single",
-    "price": 120000
-  },
-
-  {
-    "name": "Surabaya Bayview Hotel",
-    "address": "Surabaya, Kenjeran Beach",
-    "image": "https://hotel-api-production-0e8a.up.railway.app/images/Surabaya/foto1.jpg",
-    "rating": 4.3,
-    "description": "Surabaya Bayview Hotel in Surabaya, overlooking Kenjeran Beach, invites you to unwind in comfort amidst stunning coastal vistas. Discover our inviting Single and Double rooms, offering a peaceful escape after days of seaside adventures.",
-    "price": 160000
-  },
-  {
-    "name": "Raja Ampat Resort",
-    "address": "Raja Ampat, West Papua",
-    "image": "https://hotel-api-production-0e8a.up.railway.app/images/rajaampat/foto1.jpg",
+    "name": "Times Square View Hotel",
+    "address": "Times Square, Manhattan, New York, NY 10036, USA",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/newyork/foto1.jpg",
     "rating": 4.7,
-    "description": "The Raja Ampat Resort, nestled in West Papua's beauty, invites you to unwind in paradise. Immerse yourself in the splendor of Raja Ampat, where our resort serves as your luxurious sanctuary amidst nature's grandeur. Indulge in our serene Single and Double rooms, providing the perfect respite after days spent discovering this tropical haven.",
-    "price": 400000
+    "description": "Embrace the vibrant energy of NYC at the Times Square View Hotel. Our rooms boast stunning views of the bustling square, providing a front-row seat to the city's pulsating nightlife and iconic landmarks.",
+    "price": 700000
   },
-
   {
-    "name": "Jakarta City Hotel",
-    "address": "Central Jakarta, National Monument",
-    "image": "https://hotel-api-production-0e8a.up.railway.app/images/jakarta/foto1.jpg",
-    "rating": 4,
-    "description": "Across the archipelago, the Jakarta City Hotel in Central Jakarta, near the National Monument, welcomes you to the bustling energy of the city. Find comfort and convenience in our Single and Double rooms, ideal for urban explorers seeking a restful haven.",
-    "price": 180000
+    "name": "Sydney Harbour Vista",
+    "address": "Sydney NSW, Australia",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/sydney/foto1.jpg",
+    "rating": 4.9,
+    "description": "Unwind in style at Sydney Harbour Vista, offering panoramic views of the famous Opera House and Harbour Bridge. Our luxurious rooms capture the essence of Sydney's beauty, providing a serene escape by the waterfront.",
+    "price": 800000
+  },
+  {
+    "name": "Tokyo Skyline Suites",
+    "address": "Tokyo, Japan",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/tokyo/foto1.jpg",
+    "rating": 4.5,
+    "description": "Immerse yourself in Tokyo's dynamic vibe at the Tokyo Skyline Suites, boasting rooms overlooking the city's futuristic skyline. Experience modern comforts amidst traditional Japanese hospitality.",
+    "price": 650000
+  },
+  {
+    "name": "Barcelona Seaside Resort",
+    "address": "Barcelona, Spain",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/barcelona/foto1.jpg",
+    "rating": 4.7,
+    "description": "Indulge in the coastal beauty of Barcelona at our Seaside Resort. With rooms offering views of the Mediterranean, immerse yourself in the city's vibrant culture and captivating architecture.",
+    "price": 600000
+  },
+  {
+    "name": "Rome Colosseum View Hotel",
+    "address": "Piazza del Colosseo, 1, 00184 Roma RM, Italy",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/rome/foto1.jpg",
+    "rating": 4.8,
+    "description": "Step back in time at the Rome Colosseum View Hotel, featuring rooms with vistas of the ancient Colosseum. Experience Roman history and elegance combined in a luxurious setting.",
+    "price": 700000
+  },
+  {
+    "name": "Dubai Desert Oasis",
+    "address": "Dubai - United Arab Emirates",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/dubai/foto1.jpg",
+    "rating": 4.6,
+    "description": "Escape to luxury in the Dubai Desert Oasis, offering a serene retreat amidst the desert's golden sands. Our rooms provide an oasis of comfort and tranquility in this bustling city.",
+    "price": 850000
+  },
+  {
+    "name": "Moscow Kremlin Suites",
+    "address": "Moscow, Russia, 103073",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/moscow/foto1.jpg",
+    "rating": 4.5,
+    "description": "Immerse yourself in the grandeur of Moscow at the Kremlin Suites. Enjoy rooms overlooking the historic Kremlin, blending opulence and sophistication in the heart of the city.",
+    "price": 680000
+  },
+  {
+    "name": "Cape Town Bayview Resort",
+    "address": "Cape Town, South Africa",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/capetown/foto1.jpg",
+    "rating": 4.9,
+    "description": "Savor the beauty of Cape Town at Bayview Resort, offering panoramic views of the stunning bay and Table Mountain. Experience luxury combined with African charm in our elegantly appointed rooms.",
+    "price": 750000
+  },
+  {
+    "name": "Hong Kong Peak View Hotel",
+    "address": "Victoria Peak, Hong Kong",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/hongkong/foto1.jpg",
+    "rating": 4.7,
+    "description": "Discover Hong Kong's skyline at Peak View Hotel, featuring rooms with breathtaking views from the city's iconic Victoria Peak. Enjoy modern comfort amidst the city's bustling energy.",
+    "price": 690000
+  },
+  {
+    "name": "Agra Taj Mahal Suites",
+    "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh, India",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/agra/foto1.jpg",
+    "rating": 4.8,
+    "description": "Be mesmerized by the Taj Mahal at our Agra Suites, offering views of this iconic monument. Experience luxury and heritage combined in our opulent rooms.",
+    "price": 720000
+  },
+  {
+    "name": "Bangkok Riverside Retreat",
+    "address": "Bangkok, Thailand",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/bangkok/foto1.jpg",
+    "rating": 4.6,
+    "description": "Escape to tranquility at the Bangkok Riverside Retreat, offering serene views of the Chao Phraya River. Our rooms provide a peaceful haven amidst the city's vibrant atmosphere.",
+    "price": 630000
+  },
+  {
+    "name": "Berlin Brandenburg Gate Hotel",
+    "address": "Pariser Platz, 10117 Berlin, Germany",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/berlin/foto1.jpg",
+    "rating": 4.7,
+    "description": "Experience Berlin's history at Brandenburg Gate Hotel, featuring rooms overlooking this iconic landmark. Immerse yourself in comfort and elegance amidst the city's cultural richness.",
+    "price": 670000
+  },
+  {
+    "name": "Venice Canal View Suites",
+    "address": "Venice, Italy",
+    "image": "https://hotel-api-production-0e8a.up.railway.app/images/venice/foto1.jpg",
+    "rating": 4.9,
+    "description": "Explore Venice's charm at Canal View Suites, boasting rooms with picturesque views of the iconic canals. Embrace luxury and Venetian elegance in a romantic setting.",
+    "price": 780000
   }
 ]
